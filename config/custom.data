@@ -1,0 +1,6 @@
+classes= 1
+train=data/nfpa/train.txt
+valid=data/nfpa/test.txt
+names=custom.names
+backup=backup/
+eval=custom
